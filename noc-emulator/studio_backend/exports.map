@@ -1,0 +1,4 @@
+{
+  global: noc_studio_v1_*;
+  local: *;
+};
